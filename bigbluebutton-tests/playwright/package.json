@@ -12,7 +12,7 @@
     "@playwright/test": "^1.28.1",
     "axios": "^1.2.0",
     "dotenv": "^16.0.0",
-    "playwright": "^1.28.1",
+    "playwright": "^1.56.0",
     "chalk": "^4.1.2",
     "sha1": "^1.1.1",
     "xml2js": "^0.4.23"
